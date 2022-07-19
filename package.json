@@ -1,0 +1,23 @@
+{
+  "name": "awsexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koji-Sunioj/awsexpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koji-Sunioj/awsexpress/issues"
+  },
+  "homepage": "https://github.com/Koji-Sunioj/awsexpress#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
